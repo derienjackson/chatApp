@@ -1,4 +1,4 @@
-# chatApp
+# Chat Application
 <h2>Description</h2>
 A web application for continuous communication between multiple users through private chat rooms. Join the matching chat room as the user you want to communicate with to establish a chat connection.
 <br />
@@ -10,13 +10,13 @@ A web application for continuous communication between multiple users through pr
 - <b>Expres JS</b>
 - <b>Socket.IO</b>
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
-Restaurant Search Screen <br/>
-<img src="" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+Choose a name and chat room to join <br/>
+<img src="https://i.imgur.com/deEqmpk.png?1" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Restaurant Images Screen <br/>
-<img src="" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+Communicate privately between users in the the same chat room <br/>
+<img src="https://i.imgur.com/dpEXotU.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
