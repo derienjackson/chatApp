@@ -1,6 +1,6 @@
 # chatApp
 <h2>Description</h2>
-A web application for continuous communication between multiple users through chat rooms
+A web application for continuous communication between multiple users through private chat rooms. Join the matching chat room as the user you want to communicate with to establish a chat connection.
 <br />
 
 
